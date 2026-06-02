@@ -1,2 +1,26 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sorry</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            color: pink;
+            font-size: 4em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sorry</h1>
+    <script>
+        console.log("Sorry");
+    </script>
+</body>
+</html>
